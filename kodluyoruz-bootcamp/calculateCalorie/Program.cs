@@ -33,6 +33,7 @@
                     double calorieCounter = manBmh * 1.375;
                     Console.Write($"You daily calorie need : {calorieCounter}Kcal");
                 }
+                break;
             }
             catch(Exception e)
             {
