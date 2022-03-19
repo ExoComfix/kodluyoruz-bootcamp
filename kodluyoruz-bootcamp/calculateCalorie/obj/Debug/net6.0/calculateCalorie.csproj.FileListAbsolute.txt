@@ -1,0 +1,15 @@
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\calculateCalorie.exe
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\calculateCalorie.deps.json
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\calculateCalorie.runtimeconfig.json
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\calculateCalorie.dll
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\ref\calculateCalorie.dll
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\bin\Debug\net6.0\calculateCalorie.pdb
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.csproj.AssemblyReference.cache
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.AssemblyInfoInputs.cache
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.AssemblyInfo.cs
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.csproj.CoreCompileInputs.cache
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.dll
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\ref\calculateCalorie.dll
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.pdb
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\calculateCalorie\obj\Debug\net6.0\calculateCalorie.genruntimeconfig.cache
