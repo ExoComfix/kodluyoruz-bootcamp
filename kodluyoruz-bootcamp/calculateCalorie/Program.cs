@@ -4,7 +4,8 @@
     {
         static void Main (string[] args)
         {
-            while(true){
+            while(true)
+            {
             try
             {
                 
