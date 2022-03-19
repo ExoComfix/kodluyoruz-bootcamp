@@ -1,5 +1,5 @@
-#[EN]
-## Kodluyoruz .NET Core with C# Bootcamp Projects
+##[EN]
+# Kodluyoruz .NET Core with C# Bootcamp Projects
 
-#[TR]
-## Kodluyoruz C# ile .NET Core Bootcamp Projects
+##[TR]
+# Kodluyoruz C# ile .NET Core Bootcamp Projects
