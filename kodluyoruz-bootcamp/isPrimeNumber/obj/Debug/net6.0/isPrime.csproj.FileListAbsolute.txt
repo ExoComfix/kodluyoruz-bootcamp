@@ -1,0 +1,5 @@
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\isPrime\obj\Debug\net6.0\isPrime.csproj.AssemblyReference.cache
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\isPrime\obj\Debug\net6.0\isPrime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\isPrime\obj\Debug\net6.0\isPrime.AssemblyInfoInputs.cache
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\isPrime\obj\Debug\net6.0\isPrime.AssemblyInfo.cs
+C:\Users\ooztu\Desktop\kodluyoruz-bootcamp\kodluyoruz-bootcamp\isPrime\obj\Debug\net6.0\isPrime.csproj.CoreCompileInputs.cache

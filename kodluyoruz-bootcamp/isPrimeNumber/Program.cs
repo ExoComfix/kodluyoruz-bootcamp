@@ -1,14 +1,14 @@
 ﻿using System;
 
-namespace isPrime
+namespace isPrimeNumber
 {
-    class Program
+    internal class Program
     {
-        static void isPrime(string[] args)
+        static void Main(string[] args)
         {
             int number = 0;
             bool isPrime = true;
-            Console.Write("Please Enter Number:");
+            Console.Write("Please enter number : ");
             try
             {
                 number = Convert.ToInt16(Console.ReadLine());
@@ -20,17 +20,14 @@ namespace isPrime
             
             for (int i = 2; i < Math.Sqrt(number); i++)
             {
-                if(number%i == 0)
-                    prime = false;
+                if(number%i == 0 || number == 1)
+                    isPrime = false;
             }
-
-            if (number == 1)
-                prime = false;
-
-            if (prime)
-                Console.WriteLine("Prime!");
+            
+            if (isPrime)
+                Console.WriteLine("Number is prime!");
             else
-                Console.WriteLine("Not prime!");
+                Console.WriteLine("Number is not prime!");
         }
     }
 }
