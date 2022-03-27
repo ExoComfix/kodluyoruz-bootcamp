@@ -28,7 +28,7 @@
                 Console.Write($"You daily calorie need : {calorieCounter}Kcal");
                 }
 
-                if (gender == 2)
+                else if (gender == 2)
                 {
                     double manBmh = ( 10 * weight) + ( 6.25 * height) - ( 5 * age) + 5;
                     double calorieCounter = manBmh * 1.375;
