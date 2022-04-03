@@ -1,0 +1,15 @@
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\adam-asmaca.exe
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\adam-asmaca.deps.json
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\adam-asmaca.runtimeconfig.json
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\adam-asmaca.dll
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\ref\adam-asmaca.dll
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\bin\Debug\net6.0\adam-asmaca.pdb
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.csproj.AssemblyReference.cache
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.AssemblyInfoInputs.cache
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.AssemblyInfo.cs
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.csproj.CoreCompileInputs.cache
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.dll
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\ref\adam-asmaca.dll
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.pdb
+C:\Users\ooztu\Desktop\Projects\kodluyoruz-bootcamp\adam-asmaca\obj\Debug\net6.0\adam-asmaca.genruntimeconfig.cache
